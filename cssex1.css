@@ -1,0 +1,59 @@
+body {
+  background-color: cornflowerblue;
+}
+
+div.nav2,
+nav,
+a:link {
+  color: crimson;
+  display: inline;
+}
+.wrapper {
+  width: 35vw;
+  margin: 0px auto;
+  padding: 16px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.header1 {
+  color: rgb(53, 43, 43);
+  text-shadow: 2px, 2px, 4px rgb(255, 255, 255);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.header2 {
+  color: white;
+  text-shadow: black;
+}
+p.par2 {
+  color: yellow;
+  text-decoration: underline;
+}
+p.par1 {
+  color: yellow;
+}
+table.table1,
+th,
+td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  background-color: orangered;
+}
+.wrapper2 {
+  width: 35vw;
+  margin: 16px auto;
+  padding: 16px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.toprow {
+  color: grey;
+}
+.header3 {
+  color: rgb(53, 43, 43);
+  text-shadow: 2px, 2px, 4px rgb(255, 255, 255);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.header4 {
+  color: white;
+  text-shadow: black;
+}
